@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("https://github.com/sampathbbk/PortfolioWebsite/blob/13c95aa264e96fb16061a6d1ff02f80673486212/banner.jpg") no-repeat center;
+    background: url("https://github.com/sampathbbk/PortfolioWebsite/blob/bb4dd308f6bcc6672c70fba0953543c868b6e746/banner.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
